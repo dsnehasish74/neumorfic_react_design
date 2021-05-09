@@ -1,12 +1,24 @@
 {
   "name": "neumorfic_react_design",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Helps to Create Neumorphic Design",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Snehasish Dhar",
+  "keywords": [
+    "react",
+    "react-component",
+    "neumorphism",
+    "neumorphic",
+    "styled components",
+    "design"
+  ],
+  "bugs": {
+    "url": "https://github.com/dsnehasish74/neumorfic_react_design/issues"
+  },
+  "homepage": "https://github.com/dsnehasish74/neumorfic_react_design",
   "license": "MIT",
   "dependencies": {
     "styled-components": "^5.3.0"
